@@ -1,0 +1,49 @@
+D:\Visual Studio Projects\Diary\bin\Debug\Diary.exe.config
+D:\Visual Studio Projects\Diary\bin\Debug\Diary.exe
+D:\Visual Studio Projects\Diary\bin\Debug\Diary.pdb
+D:\Visual Studio Projects\Diary\obj\Debug\Diary.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Diary\obj\Debug\Diary.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\Diary\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Projects\Diary\obj\Debug\App.g.cs
+D:\Visual Studio Projects\Diary\obj\Debug\Diary_MarkupCompile.cache
+D:\Visual Studio Projects\Diary\obj\Debug\Diary_MarkupCompile.lref
+D:\Visual Studio Projects\Diary\obj\Debug\MainWindow.baml
+D:\Visual Studio Projects\Diary\obj\Debug\Diary.g.resources
+D:\Visual Studio Projects\Diary\obj\Debug\Diary.Properties.Resources.resources
+D:\Visual Studio Projects\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Diary\obj\Debug\Diary.exe
+D:\Visual Studio Projects\Diary\obj\Debug\Diary.pdb
+D:\Visual Studio Projects\Diary\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Projects\Diary\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Projects\Diary\obj\Debug\Diary.csproj.CopyComplete
+D:\Visual Studio Projects\Diary\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Visual Studio Projects\Diary\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Visual Studio Projects\Diary\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Visual Studio Projects\Diary\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Visual Studio Projects\Diary\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Visual Studio Projects\Diary\bin\Debug\Diary.xml
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\Diary.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\Diary.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\MainWindow.baml
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\App.g.cs
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\My Personal Diary_MarkupCompile.cache
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\My Personal Diary.g.resources
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\MyPersonalDiary.Properties.Resources.resources
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\My Personal Diary\bin\Debug\My Personal Diary.exe.config
+D:\Visual Studio Projects\My Personal Diary\bin\Debug\My Personal Diary.xml
+D:\Visual Studio Projects\My Personal Diary\bin\Debug\My Personal Diary.exe
+D:\Visual Studio Projects\My Personal Diary\bin\Debug\My Personal Diary.pdb
+D:\Visual Studio Projects\My Personal Diary\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Visual Studio Projects\My Personal Diary\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Visual Studio Projects\My Personal Diary\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Visual Studio Projects\My Personal Diary\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Visual Studio Projects\My Personal Diary\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\Diary.csproj.CopyComplete
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\My Personal Diary.exe
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\My Personal Diary.pdb
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\NewPasswordWindow.baml
+D:\Visual Studio Projects\My Personal Diary\obj\Debug\NewPasswordWindow.g.cs

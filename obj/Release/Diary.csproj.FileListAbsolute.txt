@@ -1,0 +1,44 @@
+D:\Visual Studio Projects\Diary\bin\Release\Newtonsoft.Json.dll
+D:\Visual Studio Projects\Diary\bin\Release\Newtonsoft.Json.xml
+D:\Visual Studio Projects\Diary\obj\Release\Diary.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Diary\obj\Release\Diary.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\Diary\obj\Release\MainWindow.g.cs
+D:\Visual Studio Projects\Diary\obj\Release\App.g.cs
+D:\Visual Studio Projects\Diary\obj\Release\MainWindow.baml
+D:\Visual Studio Projects\Diary\obj\Release\Diary.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Diary\obj\Release\Diary.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Diary\obj\Release\Diary.csproj.CopyComplete
+D:\Visual Studio Projects\Diary\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\Visual Studio Projects\Diary\bin\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Visual Studio Projects\Diary\bin\Release\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Visual Studio Projects\Diary\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Visual Studio Projects\Diary\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Visual Studio Projects\Diary\bin\Release\My Personal Diary.exe.config
+D:\Visual Studio Projects\Diary\bin\Release\My Personal Diary.exe
+D:\Visual Studio Projects\Diary\bin\Release\My Personal Diary.pdb
+D:\Visual Studio Projects\Diary\obj\Release\My Personal Diary_MarkupCompile.cache
+D:\Visual Studio Projects\Diary\obj\Release\My Personal Diary.g.resources
+D:\Visual Studio Projects\Diary\obj\Release\MyPersonalDiary.Properties.Resources.resources
+D:\Visual Studio Projects\Diary\obj\Release\My Personal Diary.exe
+D:\Visual Studio Projects\Diary\obj\Release\My Personal Diary.pdb
+D:\Visual Studio Projects\My Personal Diary\obj\Release\Diary.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\My Personal Diary\obj\Release\Diary.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\My Personal Diary\obj\Release\MainWindow.baml
+D:\Visual Studio Projects\My Personal Diary\obj\Release\MainWindow.g.cs
+D:\Visual Studio Projects\My Personal Diary\obj\Release\App.g.cs
+D:\Visual Studio Projects\My Personal Diary\obj\Release\My Personal Diary_MarkupCompile.cache
+D:\Visual Studio Projects\My Personal Diary\obj\Release\My Personal Diary.g.resources
+D:\Visual Studio Projects\My Personal Diary\obj\Release\My Personal Diary.exe
+D:\Visual Studio Projects\My Personal Diary\obj\Release\My Personal Diary.pdb
+D:\Visual Studio Projects\My Personal Diary\bin\Release\My Personal Diary.exe.config
+D:\Visual Studio Projects\My Personal Diary\bin\Release\My Personal Diary.exe
+D:\Visual Studio Projects\My Personal Diary\bin\Release\My Personal Diary.pdb
+D:\Visual Studio Projects\My Personal Diary\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\Visual Studio Projects\My Personal Diary\bin\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Visual Studio Projects\My Personal Diary\bin\Release\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Visual Studio Projects\My Personal Diary\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Visual Studio Projects\My Personal Diary\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Visual Studio Projects\My Personal Diary\obj\Release\MyPersonalDiary.Properties.Resources.resources
+D:\Visual Studio Projects\My Personal Diary\obj\Release\Diary.csproj.GenerateResource.cache
+D:\Visual Studio Projects\My Personal Diary\obj\Release\Diary.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\My Personal Diary\obj\Release\Diary.csproj.CopyComplete
