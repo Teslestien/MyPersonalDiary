@@ -96,13 +96,27 @@ namespace Diary
                 }
                 SecurityQuestion_str = SettingsData[6];
                 SecurityQuestionAnswer = SettingsData[7];
-                HideDataFolder = bool.Parse(SettingsData[9]);
-                Encryption = bool.Parse(SettingsData[10]);
-                SecurityQuestionAnswerPassword = SettingsData[11];
+                HideDataFolder = bool.Parse(SettingsData[8]);
+                Encryption = bool.Parse(SettingsData[9]);
+                SecurityQuestionAnswerPassword = SettingsData[10];
             }
             catch
             {
-                ;
+                File.Create("config.txt").Dispose();
+                FontSize_str = (28).ToString();
+                FontFamily_str = "Caveat";
+                BackgroundLocation = "";
+                LockScreenBackgroundLocation = "";
+                Password = "";
+                if (Directory.Exists(""))
+                {
+                    StorageLocation = "";
+                }
+                SecurityQuestion_str = "";
+                SecurityQuestionAnswer = "";
+                HideDataFolder = false;
+                Encryption = true;
+                SecurityQuestionAnswerPassword = "";
             }
 
             FontSize_input.Text = FontSize_str;
@@ -340,7 +354,7 @@ namespace Diary
             }
         }
 
-        String[] contents = new string[12];
+        String[] contents = new string[11];
         private void SaveSettings_Click(object sender, RoutedEventArgs e)
         {
 
@@ -375,10 +389,9 @@ namespace Diary
             contents[6] = SecurityQuestion_str;
 
 
-            contents[8] = "Useless Line";
-            contents[9] = HideDataFolder.ToString();
-            contents[10] = Encryption.ToString();
-            contents[11] = SecurityQuestionAnswerPassword;
+            contents[8] = HideDataFolder.ToString();
+            contents[9] = Encryption.ToString();
+            contents[10] = SecurityQuestionAnswerPassword;
 
             File.WriteAllLines("config.txt", contents);
 
